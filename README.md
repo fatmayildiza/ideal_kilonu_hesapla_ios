@@ -16,4 +16,4 @@ I have learn more about Optionals, solidify your understanding of the MVC design
 
 
 
-![bmi_mobilapp](https://github.com/fatmayildiza/ideal_kilonu_hesapla_ios/assets/77845128/accd8369-e1a4-4ee5-93bc-a0b46565c92b)
+![mobil_app_bmi](https://github.com/fatmayildiza/ideal_kilonu_hesapla_ios/assets/77845128/d0bba1c6-54cb-4cf7-afd8-9762f3f5a6c0)
